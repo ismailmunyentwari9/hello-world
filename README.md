@@ -4,9 +4,6 @@
 
 > It is my first Microverse Project, and it has linter to rectify and print out code mistakes.
 
-
-## 🛠 Built With <a name="built-with"></a>
-
 ### HTML and CSS <a name="tech-stack"></a>
 
 > HTML and CSS is a coding langauge that developers use to style a website.
