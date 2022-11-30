@@ -1,27 +1,4 @@
 <a name="readme-top"></a>
-
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-After you're finished please remove all the comments and instructions!
--->
-
 <div align="center">
 
   <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
@@ -67,10 +44,6 @@ After you're finished please remove all the comments and instructions!
 ### HTML and CSS <a name="tech-stack"></a>
 
 > HTML and CSS is a coding langauge that developers use to style a website.
-
-<details>
-  <summary>Client</summary>
-  <ul>
     <li><a href="https://reactjs.org/">React.js</a></li>
   </ul>
 </details>
@@ -95,62 +68,17 @@ After you're finished please remove all the comments and instructions!
 ## 💻 Getting Started <a name="getting-started"></a>
 
 > Describe how a new developer could make use of your project.
-
-To get a local copy up and running, follow these steps.
-
-### Prerequisites
-
-In order to run this project you need:
-- Github
-- Git
-
-<!--
-Example command:
-
-sh
- gem install rails
-
- -->
-
-### Setup
-
-Clone this repository to your desired folder:
 - cd my-folder
 - git clone git@github.com:myaccount/my-project.git
-<!--
-Example commands:
-
-sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-
---->
 
 ### Install
 
 Install this project with:
 - git clone 
 
-<!--
-Example command:
-
-sh
-  cd my-project
-  gem install
-
---->
-
 ### Usage
 
 To run the project, execute the following command:
-
-<!--
-Example command:
-
-sh
-  rails server
-
---->
 
 
 <!-- AUTHORS -->
@@ -185,11 +113,6 @@ sh
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- SUPPORT -->
-
 ## ⭐️ Show your support <a name="support"></a>
 
 > This is my first Microverse project, and if you like it you can make me happy by giving a star.
@@ -222,11 +145,7 @@ I would like to thank to Microverse for helping us to complete this project.
 
   - I used HTML and CSS
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LICENSE -->
-
-## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
 
