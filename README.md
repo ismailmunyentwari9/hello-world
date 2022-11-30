@@ -1,1 +1,99 @@
-# hello-world
+<a name="readme-top"></a>
+📗 Table of Contents
+📖 About the Project
+🛠 Built With
+Tech Stack
+Key Features
+
+💻 Getting Started
+Setup
+👥 Authors
+🔭 Future Features
+⭐️ Show your support
+🙏 Acknowledgements
+❓ FAQ
+📝 License
+
+# 📖 [Hello World] <a name="about-project"></a>
+
+> It is my first Microverse Project, and it has linter to rectify and print out code mistakes.
+
+### HTML and CSS <a name="tech-stack"></a>
+
+> HTML and CSS is a coding langauge that developers can use to build project like this.
+
+###In order to run this project you need:
+
+
+- Github account
+- Git bash
+-node js(installed)
+- well working browser.
+
+### Setup
+
+Clone this repository to your desired folder:
+- git clone git@github.com:(https://github.com/ismailmunyentwari9/hello-world/tree/feature1)
+
+
+
+## 👥 Author <a name="Ismail Munyentwari"></a>
+
+
+👤 *Author1*
+
+- GitHub: [[@githubhandle]([https://github.com/githubhandle](https://github.com/ismailmunyentwari9/hello-world/tree/feature1))](https://github.com/ismailmunyentwari9/hello-world/tree/feature1)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🔭 Future Features <a name="future-features"></a>
+
+>I will try to improve this project and add some new features in the future including:
+- [ ] **[Making my webpages more responsive_1]**
+- [ ] **[.Creating mobile Version of my project ]**
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+> This is my first Microverse project, and if you like it
+>  you can make me happy by giving a star and likes 🧡
+
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank to Microverse for giving us all required 
+tools and skills for creating  our own linter based project.🏼
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## ❓ FAQ <a name="faq"></a>
+
+
+- *Can we clone it without Git?*
+
+  - No, you  can't clone without Git.
+
+- *Which langauges did you use to make this?*
+
+  - I used HTML and CSS
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+## 📝 License <a name="license"></a>
+
+This project does not need any **license**,
+becouse i built it based on education and research purpose.📝
