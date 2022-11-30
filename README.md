@@ -42,7 +42,7 @@ Clone this repository to your desired folder:
 
 👤 *Author1*
 
-- GitHub: [@githubhandle]([https://github.com/githubhandle](https://github.com/ismailmunyentwari9/hello-world/tree/feature1))
+- GitHub: [[@githubhandle]([https://github.com/githubhandle](https://github.com/ismailmunyentwari9/hello-world/tree/feature1))](https://github.com/ismailmunyentwari9/hello-world/tree/feature1)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
