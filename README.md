@@ -1,4 +1,24 @@
 <a name="readme-top"></a>
+📗 Table of Contents
+📖 About the Project
+🛠 Built With
+Tech Stack
+Key Features
+🚀 Live Demo
+💻 Getting Started
+Setup
+Prerequisites
+Install
+Usage
+Run tests
+Deployment
+👥 Authors
+🔭 Future Features
+🤝 Contributing
+⭐️ Show your support
+🙏 Acknowledgements
+❓ FAQ
+📝 License
 
 # 📖 [Hello World] <a name="about-project"></a>
 
@@ -6,7 +26,7 @@
 
 ### HTML and CSS <a name="tech-stack"></a>
 
-> HTML and CSS is a coding langauge that developers use to style a website.
+> HTML and CSS is a coding langauge that developers can use to build project like this.
 
 ###In order to run this project you need:
 
@@ -19,28 +39,37 @@
 ### Setup
 
 Clone this repository to your desired folder:
-- git clone git@github.com:ismailmunyentwari9/hello-world/pull/1
+- git clone git@github.com:[ismailmunyentwari9/hello-world/pull/1](https://github.com/ismailmunyentwari9/hello-world/tree/feature1)
 
 
 
-## 👥 Authors <a name="Ismail Munyentwari"></a>
+## 👥 Author <a name="Ismail Munyentwari"></a>
+
 
 👤 *Author1*
 
-- GitHub: [@githubhandle]([https://github.com/githubhandle](https://github.com/ismailmunyentwari9))
+- GitHub: [@githubhandle]([https://github.com/githubhandle](https://github.com/[ismailmunyentwari9](https://github.com/ismailmunyentwari9/hello-world/tree/feature1)))
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## 🔭 Future Features <a name="future-features"></a>
 
 >I will try to improve this project and add some new things in the future.
+- [ ] **[Making my webpages more responsive_1]**
+- [ ] **[.Creating mobile Version of my project ]**
 
-.Making my webpages more responsive
-.Creating mobile Version of my project 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> This is my first Microverse project, and if you like it you can make me happy by giving a star and likes 🧡
+> This is my first Microverse project, and if you like it
+>  you can make me happy by giving a star and likes 🧡
 
 
 
@@ -49,7 +78,8 @@ Clone this repository to your desired folder:
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank to Microverse for giving us all required tools and skills for creating  our own linter based project.🏼
+I would like to thank to Microverse for giving us all required 
+tools and skills for creating  our own linter based project.🏼
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -70,6 +100,5 @@ I would like to thank to Microverse for giving us all required tools and skills 
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+This project is does not need any **license**,
+becouse i built it based on education and research purpose.📝
