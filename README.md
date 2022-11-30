@@ -4,17 +4,11 @@
 🛠 Built With
 Tech Stack
 Key Features
-🚀 Live Demo
+
 💻 Getting Started
 Setup
-Prerequisites
-Install
-Usage
-Run tests
-Deployment
 👥 Authors
 🔭 Future Features
-🤝 Contributing
 ⭐️ Show your support
 🙏 Acknowledgements
 ❓ FAQ
@@ -48,16 +42,17 @@ Clone this repository to your desired folder:
 
 👤 *Author1*
 
-- GitHub: [@githubhandle]([https://github.com/githubhandle](https://github.com/[ismailmunyentwari9](https://github.com/ismailmunyentwari9/hello-world/tree/feature1)))
+- GitHub: [@githubhandle]([https://github.com/githubhandle](https://github.com/ismailmunyentwari9/hello-world/tree/feature1))
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## 🔭 Future Features <a name="future-features"></a>
 
->I will try to improve this project and add some new things in the future.
+>I will try to improve this project and add some new features in the future including:
 - [ ] **[Making my webpages more responsive_1]**
 - [ ] **[.Creating mobile Version of my project ]**
 
@@ -100,5 +95,5 @@ tools and skills for creating  our own linter based project.🏼
 
 ## 📝 License <a name="license"></a>
 
-This project is does not need any **license**,
+This project does not need any **license**,
 becouse i built it based on education and research purpose.📝
