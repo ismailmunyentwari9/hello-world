@@ -33,7 +33,7 @@ Setup
 ### Setup
 
 Clone this repository to your desired folder:
-- git clone git@github.com:[ismailmunyentwari9/hello-world/pull/1](https://github.com/ismailmunyentwari9/hello-world/tree/feature1)
+- git clone git@github.com:(https://github.com/ismailmunyentwari9/hello-world/tree/feature1)
 
 
 
